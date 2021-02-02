@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SampleTest</string>
+    <string name="default_notification_channel_id">alarm_channel_id_01</string>
+
+
+</resources>
